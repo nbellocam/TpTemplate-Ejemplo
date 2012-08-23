@@ -1,18 +1,17 @@
-[Nombre del proyecto]
+Proyecto de ejemplo
 =================
 
-[Año] - [1|2]° Cuatrimestre
+2012 - 2 Cuatrimestre
 
+Este es un proyecto de ejemplo donde se mostrará una idea muy básica de que es lo que deberá tener cada alumno en su fork particular.
 
-[Descripción breve del proyecto.]
+De momento no utilizaré ningun modelo de negocios para mostrar la idea, por lo que no completaré la documentación ni la implementación.
 
 ## Integrantes del grupo
 
-- [Padrón] - [Nombre y Apellido]
-- [Padrón] - [Nombre y Apellido]
-- [Padrón] - [Nombre y Apellido]
+- 000000 - Nicolás Bello Camilletti
 
 ## Tecnologías
 
-- [[nombre de tecnología]](http://nuevas-tecnologias-fiuba.github.com/)
+- [Groovy](http://nuevas-tecnologias-fiuba.github.com/)
 - [Grails](http://grails.org/)
